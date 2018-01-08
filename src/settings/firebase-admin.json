@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trellolite",
+  "private_key_id": "7043bc65e8eccd2b8e7547ac0d7937034ec55a86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDob4r5b/Inlw5I\nefx+3nisiyBzrSAlqwbFckxgbhqV17WCAjDiIkrsuznvksS8SOKaNGlga+7c0w0E\n0MxD0bxxp2Fjm9Bhy/B+G2MSzSxf4gxx3zL8rkm7hXhBkU+huhHlto6K8EYRWHvt\nF96dNQDbnHkLsAat/JYSDcv+BJtPjN2AgpeyXzJHi/xRKwU6HgCwVAF7N0Oj+RVu\nIfeKUCcobbBCTlAVOHTqg2xzWVKwmrbP8TnTlhOq1JLybICx+K6+0KNPxcdEhjqj\nhzhi+NcwDDWFaqnGS53anJ5rJqQiqlmrQ5MON2arxkCd34aQUOmoX4roh9epw4yc\nr1xrLJlVAgMBAAECggEAEyvvc6tjtuzAc+1t4b1cs5H71gFmY1JT6hFx/R/aclgQ\nY6i7GqKB+Wc9pttSqLC+p2yhxsnNnKoNdZjO9FwWa0McpxA5HqE+lPmSJoDvrflG\n61Xh49IbXkvVaLEWjKF8luzZHTAm015FRdUqxTQ+kx6jpE67VPqpGn7yqmEmZKfy\noptTJf1CMl0Rbaz8KOveo/IjwunwOrDM6nQASHTnMMeVAlqj/mm0lEZj+vzfU07Y\nmF/5QCk3PbeXXDGTvDlQA2zb5NMwLnBORCpF8sKEx62WPbQbY71NSdCziL+ppFqB\nP/Xm2n8nO+NxVbGIR12ADSINOPMjTdnGxTyBVXbEcQKBgQDz87ZJeZXvWREdIfjn\nkndPmhMo2vHJD4Q8UtVx+uDbA+85PdoQ25enCtiRC848UgeK8m6eVzrGB35yi2LT\ne88Tu0QXJJhjKHK4y4N0htKt4T4dF7IBVOomzm1yoIrBrVf/ogSYqx8D/DIUiJme\nCpDiDI0FLaKRSb5OZMlcmUmY8QKBgQDz6jrzTm3wC2hKHrkbZeBzSPX/ilK5ekcU\nOL1020pLrhfHM8QWsxTOHIZBsU+hO0vr1IRHWNzznuaL4oASdyfgpq1hI4VmBYzL\nV29GdAd2m3L8TbzmaSmw9h+lBgXJhfcVSP7Ax8VmDN7ZjvqN7z9gZ0Tzf7xZYNFc\nLgrvgJ1mpQKBgQC6tp2ePuDzAEiI86d+FiwbUOG5M1o7eRTM1tlnE41mE+zU8vIk\nVO4Ne8+ltFN095OuVT81Ea56QuIU6XoKQ4iKoZnL3MaFnj+wEJPcbBRz4SGZQrmL\nK2LLsNM0GIwbEIF5tpeuAcsLUctCzApHW+7oFJMak4MJkFeHyLwVk30xAQKBgBkk\n+FbEqwin5GRfrm1ony7DQrjJJaYBOPqYrs8xHAOZOtJKP9inNWnZ/u0evjq8xiLV\nkZ1ZR83Ff7bD7rf4mJ/MDuuIoePWhqEfrlTw+SP8+mmQCf0msimP9cspR8dyi/oh\nwEFXVr4ibYa3+pRPKZVij/UaIeyE0pBSHsZ518ARAoGBAObjwBeYseY2lajL0f5Q\nrKHYp1ZMKYUP0F10yj+YmGB9/rEooV9x/bZYo41JEXUhleVq0KLDJJP543V+/hLE\nlBsalr+K6dy1FAc4x62f+BZHtEIuS9t8owNW9KRkEExntTQSZbxNok+UPufvgRby\nYG8GoriZA3oRXcZZNAe+Atua\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hfgkm@trellolite.iam.gserviceaccount.com",
+  "client_id": "101423857938118977060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hfgkm%40trellolite.iam.gserviceaccount.com"
+}
